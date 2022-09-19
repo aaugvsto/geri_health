@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "10649904638",
+    "project_id": "geri-health",
+    "storage_bucket": "geri-health.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10649904638:android:21801f17a3197cefdd8caf",
+        "android_client_info": {
+          "package_name": "com.aussis.gerihealth.geri_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10649904638-hppjhfotr7ous8efja9pcsjne3k9f2ah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aussis.gerihealth.geri_health",
+            "certificate_hash": "575eb1ebb45a86fdd18d090812c9d32610e66948"
+          }
+        },
+        {
+          "client_id": "10649904638-6f8lvujmjeljpe93qlsunv58rtd5lh6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Ctwm5OZ925aRnQxW-IbhnTdLMyojdJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10649904638-6f8lvujmjeljpe93qlsunv58rtd5lh6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
