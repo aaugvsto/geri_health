@@ -46,6 +46,24 @@ class VaccinesPage extends StatelessWidget {
         date: DateTime.now(),
         dose: Dose.DOSE_INICIAL,
       ),
+      Vaccine(
+        name: 'Teste',
+        manufacturer: 'Teste',
+        date: DateTime.now(),
+        dose: Dose.DOSE_INICIAL,
+      ),
+      Vaccine(
+        name: 'Teste',
+        manufacturer: 'Teste',
+        date: DateTime.now(),
+        dose: Dose.DOSE_INICIAL,
+      ),
+      Vaccine(
+        name: 'Teste',
+        manufacturer: 'Teste',
+        date: DateTime.now(),
+        dose: Dose.DOSE_INICIAL,
+      ),
     ]);
   }
 }

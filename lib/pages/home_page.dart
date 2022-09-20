@@ -17,7 +17,7 @@ class _HomePageState extends State<HomePage> {
 
   final screens = [
     // ignore: prefer_const_constructors
-    VaccinesPage(),
+    const VaccinesPage(),
     const AppointmentPage(),
     const CalculatorPage(),
   ];
@@ -45,7 +45,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         centerTitle: true,
         title: Image.asset('assets/icons/icon_top.png'),
-        backgroundColor: Colors.lightBlue,
+        backgroundColor: currentIndex == 1 ? Colors.teal : Colors.lightBlue,
         elevation: 2,
       ),
       body: screens[currentIndex],
